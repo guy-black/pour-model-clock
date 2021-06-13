@@ -12,5 +12,5 @@ so here's one that reminds you when the study/work is done and it's officially M
 - ```cycles``` is number of times to do work
 
 # TODO
--allow the important variables to be passed in at the command line
--allow for varying length breaks (ie, every 4th break is 20 minutes instead of 5)
+- allow the important variables to be passed in at the command line
+- allow for varying length breaks (ie, every 4th break is 20 minutes instead of 5)
